@@ -1,0 +1,31 @@
+.banner {
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+
+  .lingkaran {
+    display: inline-block;
+    border-radius: 10%;
+    width: 40px;
+    margin: auto;
+    height: 40px;
+    color:#fff;
+    background-color:rgb(21, 131, 131);
+  }
+
+  .lingkaran svg {
+    position: relative;
+    top: 5px;
+  }
+
+  .contact{
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color:#fff
+  }
